@@ -1,0 +1,45 @@
+correctUsage: "Poprawne użycie: `{USAGE}`"
+unknownRegion: "Podany region nie istnieje, lub nie jest wspierany."
+unknownSummoner: "Przywoływacz {SUMMONER} nie istnieje na podanym serwerze."
+error: "Błąd"
+word:
+  region: "Region"
+  summoner: "Przywoływacz"
+  rank: "Ranga"
+  welcome: "Witaj"
+channelOnly:
+  private: "Komenda ta może być użyta tylko w wiadomości prywatnej!"
+  guild: "Komenda ta może być użyta tylko na serwerze!"
+summonerInfo: "Informacje o przywoływaczu"
+queue:
+  flextt: "Flex 3x3"
+  flexsr: "Flex 5x5"
+  solo: "Solo/duo 5x5"
+verification:
+  first:
+    title: "Witamy w naszej społeczności!"
+    text: >
+      *jakiś bulshi tekst w stylu witamy jesteś super*
+      Przeoprowadzę Cię teraz przez krótki proces połączenia konta z kontem League of Legends.
+      Na wpisz napisz swój region, oraz nazwę użytkownika w formacie. Przykład: `eune Ixidi`.
+      (Możesz również wybrać swój język, klikając na jedną z flag.)
+  second:
+    title: "Weryfikacja"
+    text: >
+      W celu weryfikacji, czy konto należy do Ciebie, prosimy o zmiane ikony profilu w grze na widoczną obok.
+      Następni kliknij na :white_check_mark:.
+      Spokojnie, po weryfikacji będziesz mógł z powrotem zmienić swoją ikone ;)
+  end:
+    ok:
+      title: "Dobra robota!"
+      text: >
+        Twoje konto zostało zweryfikowane, życzymy przyjemnego korzystania z naszego serwera.
+    error:
+      text: >
+        Ikona nie została zmieniona, lub została zmieniona na nieodpowiednią.
+        Powinna zostać zmieniona na widoczną obok.
+        Po zmianie kliknij na :white_check_mark:.
+settingsUpdated: "Zaktualizowano ustawienia"
+languageChanged: "Twój język został zmieniony na Polski!" #change to native language name
+commandDisabled: "Ta komenda jest wyłączona. Powód: `{REASON}`."
+unexpectedError: "Wystąpił nieoczekiwany błąd, administracja została powiadomiona."

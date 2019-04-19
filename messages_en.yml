@@ -1,0 +1,26 @@
+correctUsage: "Correct usage: `{USAGE}`"
+unknownRegion: "That region does not exist, or is not supported."
+unknownSummoner: "Summoner {SUMMONER} does not exist on the specified server."
+error: "Error"
+word:
+  region: "Region"
+  summoner: "Summoner"
+  rank: "Rank"
+channelOnly:
+  private: "Command can be used only in private message!"
+  guild: "Command can be used only in server message!"
+summonerInfo: "Information about summoner"
+queue:
+  flextt: "Flex 3x3"
+  flexsr: "Flex 5x5"
+  solo: "Solo/duo 5x5"
+verification:
+  first:
+    title: "Welcome to our community!"
+    text: >
+      **Do przetłumaczenia kiedyś**
+      Przeoprowadzę Cię teraz przez krótki proces połączenia konta z kontem League of Legends.
+      Na wpisz napisz swój region, oraz nazwę użytkownika w formacie. Przykład: `eune Ixidi`.
+      (Możesz również wybrać swój język, klikając na jedną z flag.)
+settingsUpdated: "Settings updated"
+languageChanged: "Your language has been changed to English!" #change to native language name
